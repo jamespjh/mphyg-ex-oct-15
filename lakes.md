@@ -5,3 +5,4 @@ Some lakes:
 
 * Windermere
 * Coniston
+* Wastwater
