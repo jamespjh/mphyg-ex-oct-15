@@ -5,3 +5,4 @@ Mountains in Cumbria:
 
 * Helvellyn
 * Scafell
+* Blencathra
