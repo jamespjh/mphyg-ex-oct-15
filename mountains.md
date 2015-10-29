@@ -7,3 +7,4 @@ Mountains in Cumbria:
 * Scafell
 * Mount Fictional
 * Blencathra
+* Coniston Old Man
