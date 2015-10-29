@@ -1,4 +1,4 @@
-Some notes about Lakes
+Some interesting notes about Lakes
 ======================
 
 Some lakes:
